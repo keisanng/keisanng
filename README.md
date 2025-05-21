@@ -11,6 +11,10 @@
 
 - ![](https://github.com/user-attachments/assets/1d0beba2-ce3a-4193-a1fd-52400c959779) [CSS]()
   - ![](https://github.com/user-attachments/assets/45b44cb3-3648-44c3-a96e-9280d650cb14) [Tailwind]()
+- ![](https://github.com/user-attachments/assets/f9c93c07-e0dc-40fc-924f-0a8c71885d01) [HTML]()
+- ![](https://github.com/user-attachments/assets/417bc5ff-de72-42d9-a97f-cf6f4f1d4f0a) [JavaScript]()
+  - ![](https://github.com/user-attachments/assets/ec3e9c67-d842-46c9-b83e-0734b1ff8b00) [TypeScript]()
+- ![](https://github.com/user-attachments/assets/2a3de058-19ee-418e-8454-d0d9c1389983) [Svelte]()
 
 ### Programming
 
@@ -29,7 +33,3 @@
 - ![Diamond with a source tree in it](https://github.com/user-attachments/assets/c5b03df7-e3dd-4aac-95ec-3a85b2ec24f3) [Git]()
   - [GitFlow]()
 - ![Geometric snowflake](https://github.com/user-attachments/assets/15fbaf3b-2ccb-494c-aea5-121cc7e554e6) [Nix]()
-- ![](https://github.com/user-attachments/assets/f9c93c07-e0dc-40fc-924f-0a8c71885d01) [HTML]()
-- ![](https://github.com/user-attachments/assets/417bc5ff-de72-42d9-a97f-cf6f4f1d4f0a) [JavaScript]()
-  - ![](https://github.com/user-attachments/assets/ec3e9c67-d842-46c9-b83e-0734b1ff8b00) [TypeScript]()
-- ![](https://github.com/user-attachments/assets/2a3de058-19ee-418e-8454-d0d9c1389983) [Svelte]()
