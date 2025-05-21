@@ -1,19 +1,31 @@
-## Software Development Skills
+## Software Engineering Skills
 
-- **Progamming:**
-  - C
-  - Rust
-  - Scala
-- **Scripting:**
-  - Bash
-  - Python
-- **Software Engineering:**
-  - Nix
-  - SQL
-- **Frontend/Web Development:**
-  - CSS
-  - HTML
-  - JavaScript
-  - Svelte
+### Programming
+
+- C
+- Rust
+- Scala
+
+### Scripting
+
+- Bash
+- Python
+
+### Administration
+
+- Git
+  - GitFlow
+- GNU/Linux
+- Nix
+- SQL
+  - PostgreSQL
+  - SQLite
+
+### Frontend/Web Development
+
+- CSS
   - Tailwind CSS
+- HTML
+- JavaScript
   - TypeScript
+- Svelte
