@@ -3,8 +3,6 @@
   <tr>
     <th><h3>Administration</h3></th>
     <th><h3>Frontend Development</h3></th>
-    <th><h3>Programming</h3></th>
-    <th><h3>Software Development</h3></th>
   </tr>
   <tr>
     <td>
@@ -70,6 +68,11 @@
         </li>
       </ul>
     </td>
+  <tr>
+      <th><h3>Programming</h3></th>
+      <th><h3>Software Development</h3></th>
+  </tr>
+  <tr>
     <td>
       <ul>
         <li>
