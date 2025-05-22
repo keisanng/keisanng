@@ -70,7 +70,7 @@
     </td>
   <tr>
       <th><h3>Programming</h3></th>
-      <th><h3>Software Development</h3></th>
+      <th><h3>Software Distribution</h3></th>
   </tr>
   <tr>
     <td>
