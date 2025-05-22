@@ -17,6 +17,10 @@
           <a href="https://en.wikipedia.org/wiki/Linux">Linux</a>
         </li>
         <li>
+          <img src="https://github.com/user-attachments/assets/15fbaf3b-2ccb-494c-aea5-121cc7e554e6">
+          <a href="https://en.wikipedia.org/wiki/NixOS">NixOS</a>
+        </li>
+        <li>
           <a href="https://en.wikipedia.org/wiki/SQL">SQL</a>
           <ul>
             <li>
