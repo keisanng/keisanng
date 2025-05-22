@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">Software Engineering Skills</h2>
+<h2>Software Engineering Skills</h2>
 <table>
   <tr>
     <th><h3>Administration</h3></th>
